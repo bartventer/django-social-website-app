@@ -45,7 +45,7 @@ Download/clone/fork the repository and install the `requirements.txt` file in yo
 ![enter image description here](https://github.com/bartventer/django-social-website-app/blob/master/bookmarks/github_images/user_bookmark_add_last.png?raw=true)
 
 ## Like system and profile viewing tracking
-Click on the image and you can like or unlike, and see the number of views. Redis is used as a cache to keep track of any views and like/unlike actions (see 7 above for screenshot of like/unlike feature).
+Click on the image and you can like or unlike, and see the number of views. Redis is used as a cache to keep track of any views and like/unlike actions.
 ![enter image description here](https://github.com/bartventer/django-social-website-app/blob/master/bookmarks/github_images/user_image_success_added.png?raw=true)
 
 ## Follow system
